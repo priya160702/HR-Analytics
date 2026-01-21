@@ -2,7 +2,7 @@
 
 ### Overview
 
-Workforce Insight Navigator is a Power BI–based HR analytics solution designed to analyze workforce demographics, attrition patterns, and employee wellness indicators. The dashboard converts structured HR data into analytical insights that support workforce planning, retention strategy, and employee experience optimization.
+Workforce Insight Navigator is a Power BI based HR analytics solution designed to analyze workforce demographics, attrition patterns, and employee wellness indicators. The dashboard converts structured HR data into analytical insights that support workforce planning, retention strategy, and employee experience optimization.
 
 The project emphasizes data preprocessing, metric-driven analysis, and interactive visualization to enable evidence-based HR decision-making.
 
