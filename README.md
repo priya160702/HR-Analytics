@@ -53,35 +53,35 @@ The solution consists of four analytical dashboards:
 
 1. Demographics Dashboard
 
-Employee distribution by age group, gender, marital status, and commute distance
+   Employee distribution by age group, gender, marital status, and commute distance
 
-Attrition analysis segmented by demographic attributes
+   Attrition analysis segmented by demographic attributes
 
-High-level workforce diversity overview
+   High-level workforce diversity overview
 
 2. Turnover Analysis I
 
-Attrition breakdown by department, job role, business travel, and tenure
+   Attrition breakdown by department, job role, business travel, and tenure
 
-Identification of high-risk functions and roles
+   Identification of high-risk functions and roles
 
-Supports workforce planning and retention prioritization
+   Supports workforce planning and retention prioritization
 
 3. Turnover Analysis II
 
-Attrition analysis by job level, overtime, income bands, and performance ratings
+   Attrition analysis by job level, overtime, income bands, and performance ratings
 
-Evaluation of managerial and performance-linked attrition
+   Evaluation of managerial and performance-linked attrition
 
-Highlights compensation and workload-related risks
+   Highlights compensation and workload-related risks
 
 4. Employee Wellness Dashboard
 
-Analysis of work-life balance, job satisfaction, relationship satisfaction, and environment satisfaction
+   Analysis of work-life balance, job satisfaction, relationship satisfaction, and environment satisfaction
 
-Correlation between satisfaction metrics and attrition
+   Correlation between satisfaction metrics and attrition
 
-Identification of non-compensation drivers of employee exit
+   Identification of non-compensation drivers of employee exit
 
 ### Key Analytical Insights
 Workforce & Demographics
