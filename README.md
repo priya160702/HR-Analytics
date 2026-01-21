@@ -21,31 +21,31 @@ The solution is intended to function as a decision-support system for HR leaders
 ### Data Pipeline & Methodology
 1. Data Preprocessing (Power Query)
 
-Removed redundant and non-informative columns
+   Removed redundant and non-informative columns
 
-Handled missing values and eliminated duplicate records
+   Handled missing values and eliminated duplicate records
 
-Standardized column naming conventions and data types
+   Standardized column naming conventions and data types
 
-Applied transformations in Power Query Editor to ensure data consistency
+   Applied transformations in Power Query Editor to ensure data consistency
 
-Produced a clean, analysis-ready data model
+   Produced a clean, analysis-ready data model
 
 2. Data Model & Metrics
 
-Defined calculated measures for:
+   Defined calculated measures for:
 
-Attrition rate
+   Attrition rate
 
-Active vs exited employees
+   Active vs exited employees
 
-Average tenure
+   Average tenure
 
-Average monthly income and hourly rate
+   Average monthly income and hourly rate
 
-Used DAX measures to support KPI cards and cross-dashboard filtering
+   Used DAX measures to support KPI cards and cross-dashboard filtering
 
-Enabled relationships for multi-dimensional slicing (department, role, job level, performance, demographics)
+   Enabled relationships for multi-dimensional slicing (department, role, job level, performance, demographics)
 
 ### Dashboard Architecture
 
