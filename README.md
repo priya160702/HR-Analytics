@@ -84,7 +84,7 @@ The solution consists of four analytical dashboards:
    Identification of non-compensation drivers of employee exit
 
 ### Key Analytical Insights
-Workforce & Demographics
+Workforce & Demographics:
 
 Overall attrition rate: 16.12%, reducing active employees from 1,470 to 1,233
 
@@ -96,7 +96,7 @@ Gender-wise attrition split: 63% male, 37% female
 
 Married employees demonstrate lower attrition compared to single employees
 
-Turnover Drivers
+Turnover Drivers:
 
 Average employee tenure: 11.28 years
 
@@ -104,7 +104,7 @@ Sales Executives and R&D exhibit the highest attrition, with R&D at 56%
 
 Higher overtime exposure correlates with increased attrition, particularly among men
 
-Performance & Compensation
+Performance & Compensation:
 
 Managers experience the highest attrition, followed by Sales Directors
 
@@ -112,7 +112,7 @@ Employees with lower performance ratings contribute to 84% of total attrition
 
 Higher hourly rates do not necessarily reduce attrition, indicating non-monetary exit drivers
 
-Wellness Indicators
+Wellness Indicators:
 
 Average monthly income: $6.5K
 
