@@ -10,11 +10,11 @@ The project emphasizes data preprocessing, metric-driven analysis, and interacti
 
 The objective was to build a scalable and interactive HR dashboard that provides insights into:
 
-Workforce composition and demographic distribution
+1. Workforce composition and demographic distribution
 
-Attrition rates and key turnover drivers
+2. Attrition rates and key turnover drivers
 
-Employee wellness, satisfaction, and engagement indicators
+3. Employee wellness, satisfaction, and engagement indicators
 
 The solution is intended to function as a decision-support system for HR leaders and business managers.
 
@@ -127,4 +127,4 @@ Men show moderate job involvement compared to women
 The Workforce Insight Navigator demonstrates how HR data can be modeled, analyzed, and visualized using Power BI, DAX, and Power Query to uncover meaningful workforce patterns. The dashboard enables organizations to move beyond descriptive reporting toward diagnostic and strategic HR analytics, supporting data-driven retention, engagement, and workforce optimization initiatives.
 
 ### Tech Stack & Skills:
-Power BI | DAX | Power Query | HR Analytics | Data Modeling | Data Visualization | KPI Design
+Power BI, DAX, Power Query, Data Modeling, Data Visualization, KPI Design
